@@ -25,8 +25,8 @@ Data Analysis, Python, Numpy, Pandas, Matplotlib, Supervised learning
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/1vig/netflix-data-analysis.git
-    cd netflix-data-analysis
+    git clone https://github.com/1vig/customerchurn-data-analysis.git
+    cd customerchurn-data-analysis
     ```
 
 2. **Install the required dependencies**:
